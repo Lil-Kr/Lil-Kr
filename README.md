@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://skillicons.dev/icons?i=java,spring,react,ts,js,tailwind,mysql,postgres,mongodb,redis,docker,nginx,rider,vscode)
+![top-langs](https://skillicons.dev/icons?i=java,spring,react,ts,js,tailwind,mysql,postgres,mongodb,redis,docker,nginx,rider,vscode)
