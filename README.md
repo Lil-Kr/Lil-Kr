@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://skillicons.dev/icons?i=java,spring,react,ts,js,tailwind,mysql,postgres,mongodb,redis,docker,nginx,rider,vscode
+
+![](https://skillicons.dev/icons?i=java,spring,react,ts,js,tailwind,mysql,postgres,mongodb,redis,docker,nginx,rider,vscode)
