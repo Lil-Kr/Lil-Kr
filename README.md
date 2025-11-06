@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 ![top-langs](https://skillicons.dev/icons?i=java,spring,react,ts,js,tailwind,mysql,postgres,mongodb,redis,docker,nginx,rider,vscode)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lil-Kr&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lil-Kr&layout=compact&theme=tokyonight)
