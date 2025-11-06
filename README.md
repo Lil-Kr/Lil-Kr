@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 - 📫 You can reach me via email [cxqybox@gmail.com](cxqybox@gmail.com) / [cxqybox@163.com](cxqybox@163.com)
 
 ![top-langs](https://skillicons.dev/icons?i=java,spring,react,ts,js,tailwind,mysql,postgres,mongodb,redis,docker,nginx,rider,vscode)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lil-Kr&layout=compact&theme=radical)
